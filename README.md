@@ -3,7 +3,9 @@
 ## Installation
 Clone the repo and go.
 
-Suggest using a virtual environment. Set up using:
+For Windows, easiest to use a `conda` environment given use of various packages relying on `GDAL` and `scipy`.
+
+Suggest using a virtual environment; e.g. for Linux set up using:
 ```
 >> virtualenv hermitcity
 >> source hermitcity/bin/activate
