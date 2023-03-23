@@ -1,11 +1,12 @@
 numpy
 pandas
 matplotlib
-geopandas
 seaborn
 scipy
 pandarallel
 geographiclib
 adjustText
-xlrd
 geopy
+xlrd
+ipywidgets
+geopandas
