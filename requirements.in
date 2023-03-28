@@ -1,13 +1,13 @@
-numpy
-pandas
-matplotlib
 seaborn
+requests
 scipy
 pandarallel
-geographiclib
-adjustText
-geopy
 xlrd
+
+# Requires other conda channel
+dasks
+adjustText
 ipywidgets
+geographiclib
+geopy
 geopandas
-requests
