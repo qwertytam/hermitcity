@@ -171,3 +171,6 @@ cython_debug/
 
 # Temporary
 tmp*
+
+# Data storage
+*.h5
