@@ -3,9 +3,9 @@ requests
 scipy
 pandarallel
 xlrd
+tables
 
 # Requires other conda channel
-dasks
 adjustText
 ipywidgets
 geographiclib
