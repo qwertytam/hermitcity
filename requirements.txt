@@ -169,6 +169,7 @@ shapely==2.0.1
     # via geopandas
 six==1.16.0
     # via
+    #   asttokens
     #   munch
     #   python-dateutil
 stack-data==0.6.2
@@ -190,7 +191,7 @@ traitlets==5.9.0
     #   matplotlib-inline
 tzdata==2023.3
     # via pandas
-urllib3==1.26.15
+urllib3==1.26.17
     # via requests
 wcwidth==0.2.6
     # via prompt-toolkit
